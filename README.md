@@ -1,0 +1,1 @@
+# MathtypeEditor
